@@ -723,30 +723,6 @@ int main() {
 
     printf("Informações da carta 02:\n");
     printf("Nome do Estado: %s\n" , estado2);
-    if (opcao1Jogador2 = populacao2)
-    {
-        printf("Primeira escolha: População\n");
-    }  else if (opcao1Jogador2 = area2){
-        printf("Primeira escolha: Área\n");
-    } else if (opcao1Jogador2 = pib2) {
-        printf("Primeira escolha: Pib\n");
-    } else if (opcao1Jogador2 = s_poder2) {
-        printf("Primeira escolha: Super Poder\n") ;
-    } else {
-        printf("Primeira escolha: Ponto Turístico\n");
-    }
- 
-        if (opcao2Jogador2 = populacao2){
-        printf("Segunda escolha: População\n");
-    }  else if (opcao2Jogador2 = area2){
-        printf("Segunda escolha: Área\n");
-    } else if (opcao2Jogador2 = pib2) {
-        printf("Segunda escolha: Pib\n");
-    } else if (opcao2Jogador2 = s_poder2) {
-        printf("Segunda escolha: Super Poder\n") ;
-    } else {
-        printf("Segunda escolha: Ponto Turístico\n");
-    }
     printf("O resultado da Soma: %.2f \n" , resultadoJogador2);
 
 
